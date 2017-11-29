@@ -1,0 +1,15 @@
+{
+  "short_name": "test App",
+  "name": "Service worker testing",
+  "icons": [
+    {
+      "src":"icon.png",
+      "sizes": "192*192",
+      "type": "image/png"
+    }
+  ],
+  "start_url": "index.html",
+  "background_color": "#000",
+  "Theme_color": "#317EFB",
+  "display": "standalone"
+}
